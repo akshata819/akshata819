@@ -62,6 +62,6 @@ akshata = {
 
 <div align="center">
 
-*open to dev roles · always learning · let's build something*
+*open to dev roles.*
 
 </div>
